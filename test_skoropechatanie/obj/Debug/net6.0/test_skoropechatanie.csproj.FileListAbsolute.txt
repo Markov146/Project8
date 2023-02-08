@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\bin\Debug\net6.0\test_skoropechatanie.exe
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\bin\Debug\net6.0\test_skoropechatanie.deps.json
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\bin\Debug\net6.0\test_skoropechatanie.runtimeconfig.json
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\bin\Debug\net6.0\test_skoropechatanie.dll
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\bin\Debug\net6.0\test_skoropechatanie.pdb
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.AssemblyInfo.cs
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.dll
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\refint\test_skoropechatanie.dll
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.pdb
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\test_skoropechatanie.genruntimeconfig.cache
+C:\Users\user\source\repos\test_skoropechatanie\test_skoropechatanie\obj\Debug\net6.0\ref\test_skoropechatanie.dll
